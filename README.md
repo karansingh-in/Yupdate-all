@@ -20,15 +20,15 @@ No setup hassle — just download, run, and get productive.
 
 👉 [**Get Hypr v3 here**](https://github.com/karansingh-in/scripting-and-automating/releases/tag/hypr_v3)
 
-- File: `hypr_v3.exe`  
-- Size: *(check GitHub release for actual size)*  
+- File: `hypr.exe`  
+- Size: *7.86MB*  
 - No installation needed — it’s fully portable.
 
 ---
 
 ## ⚡ How to Use
 
-1. **Download** the latest release `.exe`.  
+1. **Download** the latest release `.exe`but first make sure to run the `setting ground.bat` file just one time to make sure all the prerequisits are properly installed on the system.  
 2. **Double-click** to run the program.  
 3. Follow the on-screen instructions / enjoy the automation.  
 
@@ -38,24 +38,24 @@ No setup hassle — just download, run, and get productive.
 
 ## 🖥️ Example Use Cases
 
-- Automating [task 1 — e.g., cleaning temp files].  
-- Quick access to [task 2 — e.g., scripts, shortcuts].  
+- Automating [task 1 — e.g., cleaning temp files, checking and updating apps and softwares, flushing dns queries].   
 - Running lightweight automation scripts without PowerShell/CMD typing.  
 
-*(Replace with actual features your `.exe` handles.)*
 
 ---
 
 ## 📸 Screenshots / Demo
 
-*(Add images or GIFs here if possible — makes it 10× more appealing)*  
+![alt text](/assets/startpage.png)
+![alt text](/assets/running.png)
 
 ---
 
 ## 🔧 Requirements
 
-- Windows 10/11 (64-bit recommended).  
-- No admin rights needed for most features.  
+- Windows 10/11 (64-bit recommended).
+- winget (by default installed on windows 11 and new release of windows 10, if not just run the `setting ground.bat` file)
+- No admin rights needed for most features.
 
 ---
 
