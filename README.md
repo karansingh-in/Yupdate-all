@@ -1,7 +1,7 @@
 
 # Hypr v3 🚀
 
-> A lightweight Windows `.exe` utility designed to simplify everyday tasks with speed and automation.  
+> A lightweight Windows `.exe` CLI based utility designed to simplify everyday tasks with speed and automation.  
 No setup hassle — just download, run, and get productive.
 
 ---
@@ -71,7 +71,7 @@ Feedback is always welcome!
 
 ## 📜 License
 
-MIT License © 2025 [Karan Singh](https://github.com/karansingh-in)  
+Apache License © 2025 [Karan Singh](https://github.com/karansingh-in)  
 
 ---
 
