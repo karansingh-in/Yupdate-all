@@ -1,5 +1,5 @@
 
-# Hypr v3 🚀
+# yupdate-all v3 🚀
 
 > A lightweight Windows `.exe` CLI based utility designed to simplify everyday tasks with speed and automation.  
 No setup hassle — just download, run, and get productive.
