@@ -47,10 +47,10 @@ No setup hassle — just download, run, and get productive.
 ## 📸 Screenshots / Demo
 
 What you'll see when running the exe :
-![alt text](/assets/startpage.png)
+![alt text](/assets/startpage.jpg)
 
 If there are updates available for any apps, it will be listed before updating :
-![alt text](/assets/running.png)
+![alt text](/assets/running.jpg)
 
 ---
 
