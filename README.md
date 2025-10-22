@@ -1,6 +1,6 @@
 
 # Yupdate-all v3 🚀
-
+> It's just a tool i built for myself, thought others can benifit from it too.
 > A lightweight Windows `.exe` CLI-based utility designed to simplify everyday tasks with speed and automation.  
 No setup hassle — just download, run, and get productive.
 
@@ -20,8 +20,8 @@ No setup hassle — just download, run, and get productive.
 
 👉 [**Get Yupdate-all v3 here**](https://github.com/karansingh-in/yupdate-all/releases/tag/yupdate-all)
 
-- File: `hypr.exe`  
-- Size: *7.86MB*  
+- File: `Yupdate-all.exe`  
+- Size: *7.92MB*  
 - No installation needed — it’s fully portable.
 
 ---
